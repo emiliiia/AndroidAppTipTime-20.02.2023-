@@ -7,6 +7,10 @@ android {
     namespace 'com.emilia.tiptime'
     compileSdk 33
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId "com.emilia.tiptime"
         minSdk 19
