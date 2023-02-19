@@ -83,4 +83,6 @@
         tools:text="Tip Amount: $10"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calculate_button" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
